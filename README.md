@@ -1,0 +1,2 @@
+# Face-Expression-Recognition-Using-Convolutional-Neural-Network
+This project implements a facial-expression recognition system using a Convolutional Neural Network (CNN). The notebook downloads the Kaggle face-expression recognition dataset with KaggleHub, discovers the expression-class folders, converts images to 48 × 48 grayscale tensors, and creates training and validation datasets with an 80/20 split. 
